@@ -14,6 +14,7 @@ public class MainEjercicio01 {
 		n = sc.nextInt();
 
 		Eco.eco(n);
+		
 
 		sc.close();
 	}
